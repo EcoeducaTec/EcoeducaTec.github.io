@@ -1,28 +1,20 @@
-@font-face
-{
-font-family: Nexa;
-src: url(NexaLight.ttf);
-}
-
-
 body{
-  margin: 0;
+  margin: 3%;
   padding: 0;
   background: #f0f0f0;
   color: #3030f0;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 15px;
-  line-height: 18px;
   letter-spacing: 1px;
 }
 
-text{
+p{
   color: #303030;
 }
 
 h1 {
     font-weight:normal;
-    font-size: 28px;
+    font-size: 48px;
     font-weight: bold;
     text-align: center;
 }
@@ -30,7 +22,7 @@ h1 {
 
 h3 {
     font-weight:normal;
-    font-size: 20px;
+    font-size: 28px;
 }
 
 li {
@@ -39,37 +31,10 @@ li {
 
 a {
   color: #303030;
-  font-size: 15px;
 }
 
 a:link, a:visited {
     text-decoration: none;
-}
-
-button {
-    color: #3030f0;
-    background: #303030;
-    border:none;
-    text-align: center;
-    font-size: 15px;
-    width: auto;
-    line-height: 18px;
-    letter-spacing: 3px;
-    text-transform: uppercase;
-    text-align: center;
-}
-
-input[type=number] { 
-    color: #3030f0;
-    background: #303030;
-    border:none;
-    text-align: center;
-    font-size: 14px;
-    width: auto;
-    line-height: 18px;
-    letter-spacing: 3px;
-    text-transform: uppercase;
-    text-align: center;
 }
 
 .center {
