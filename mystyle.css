@@ -1,0 +1,85 @@
+@font-face
+{
+font-family: Nexa;
+src: url(NexaLight.ttf);
+}
+
+
+body{
+  margin: 0;
+  padding: 0;
+  background: navy;
+  color: #03c70e;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 10px;
+  line-height: 18px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+text{
+  color: #03c70e;
+}
+
+h1 {
+    font-weight:normal;
+    font-size: 14px;
+}
+
+
+h3 {
+    font-weight:normal;
+    font-size: 14px;
+}
+
+li {
+    color: #03c70e;
+}
+
+a {
+  background-color:black;
+  color: #03c70e;
+  font-size: 10px;
+}
+
+a:link, a:visited {
+    text-decoration: none;
+}
+
+button {
+    color: #03c70e;
+    background: black;
+    border:none;
+    text-align: center;
+    font-size: 14px;
+    width: auto;
+    line-height: 18px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+input[type=number] { 
+    color: #03c70e;
+    background: navy;
+    border:none;
+    text-align: center;
+    font-size: 14px;
+    width: auto;
+    line-height: 18px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+svg{
+  color:navy;
+}
