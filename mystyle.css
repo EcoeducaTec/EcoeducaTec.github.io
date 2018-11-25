@@ -13,9 +13,7 @@ body{
   font-family: Helvetica, Arial, sans-serif;
   font-size: 15px;
   line-height: 18px;
-  letter-spacing: 3px;
-  text-transform: uppercase;
-  text-align: center;
+  letter-spacing: 1px;
 }
 
 text{
@@ -26,6 +24,7 @@ h1 {
     font-weight:normal;
     font-size: 28px;
     font-weight: bold;
+    text-align: center;
 }
 
 
