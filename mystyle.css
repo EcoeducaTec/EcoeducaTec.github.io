@@ -8,10 +8,10 @@ src: url(NexaLight.ttf);
 body{
   margin: 0;
   padding: 0;
-  background: navy;
-  color: #03c70e;
+  background: #f0f0f0;
+  color: #3030f0;
   font-family: Helvetica, Arial, sans-serif;
-  font-size: 10px;
+  font-size: 15px;
   line-height: 18px;
   letter-spacing: 3px;
   text-transform: uppercase;
@@ -19,28 +19,28 @@ body{
 }
 
 text{
-  color: #03c70e;
+  color: #303030;
 }
 
 h1 {
     font-weight:normal;
-    font-size: 14px;
+    font-size: 28px;
+    font-weight: bold;
 }
 
 
 h3 {
     font-weight:normal;
-    font-size: 14px;
+    font-size: 20px;
 }
 
 li {
-    color: #03c70e;
+    color: #303030;
 }
 
 a {
-  background-color:black;
-  color: #03c70e;
-  font-size: 10px;
+  color: #303030;
+  font-size: 15px;
 }
 
 a:link, a:visited {
@@ -48,11 +48,11 @@ a:link, a:visited {
 }
 
 button {
-    color: #03c70e;
-    background: black;
+    color: #3030f0;
+    background: #303030;
     border:none;
     text-align: center;
-    font-size: 14px;
+    font-size: 15px;
     width: auto;
     line-height: 18px;
     letter-spacing: 3px;
@@ -61,8 +61,8 @@ button {
 }
 
 input[type=number] { 
-    color: #03c70e;
-    background: navy;
+    color: #3030f0;
+    background: #303030;
     border:none;
     text-align: center;
     font-size: 14px;
